@@ -1,0 +1,25 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="GraphSharpDemo.About"
+        Title="About" Height="239.425" Width="523.38"
+            ResizeMode="NoResize" FontStyle="Italic" WindowStartupLocation="CenterScreen"
+
+    >
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#bdc3c7" Offset="0"/>
+            <GradientStop Color="#191919" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+
+        <Label Content="Show Me 2"  HorizontalAlignment="Left" Margin="218,28,0,0" VerticalAlignment="Top" Foreground="#c0392b" FontSize="20"/>
+        <Label Content="Programmed By :" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.544,3.822" Margin="30,108,0,0" Foreground="#FFF9F9F9" FontSize="17"/>
+        <Label Content="Usama Albaghdady" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="4.883,4.396" Height="48" Width="155" Margin="196,107,0,0" Foreground="#FFF9F9F9" FontSize="17"/>
+        <Label Content="CopyRight(c) 2015" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="386,172,0,0" FontSize="14" Foreground="#FFF9F9F9"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="-261,177,0,0" VerticalAlignment="Top"/>
+    </Grid>
+
+</Window>

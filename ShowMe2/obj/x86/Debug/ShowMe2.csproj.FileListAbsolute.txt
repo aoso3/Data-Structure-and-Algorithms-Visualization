@@ -1,0 +1,74 @@
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.csprojResolveAssemblyReference.cache
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.Properties.Resources.resources
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.csproj.GenerateResource.Cache
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Show Me 2.exe
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Show Me 2.pdb
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_Content.g.cs
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_MarkupCompile.cache
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_MarkupCompile.lref
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.g.resources
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.exe
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.pdb
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.exe
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.pdb
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Show Me 2.exe
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Show Me 2.pdb
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.csprojResolveAssemblyReference.cache
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_Content.g.cs
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_MarkupCompile.cache
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2_MarkupCompile.lref
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\Show Me 2.g.resources
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.Properties.Resources.resources
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ShowMe2.csproj.GenerateResource.Cache
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\ShowMe\GraphSharpDemo\obj\x86\Debug\Show Me 2.exe
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\ShowMe\GraphSharpDemo\obj\x86\Debug\Show Me 2.pdb
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\ShowMe\ShowMe2\obj\x86\Debug\Show Me 2.exe
+H:\ITE Projects\2-Second Year\Show Me 2 Final\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\ShowMe\ShowMe2\obj\x86\Debug\Show Me 2.pdb

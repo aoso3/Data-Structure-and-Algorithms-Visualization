@@ -1,0 +1,980 @@
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+C:\Users\WIN7LAP001\Desktop\In Progress\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+C:\Users\barbers\Desktop\Downloads\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+C:\Users\Usama\Desktop\GraphSharp-v1.0-sample\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+D:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\GraphSharpDemo\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 3\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 4\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 5\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 6\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 7\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 8\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 9\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 10\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 11\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 12\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 13\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 14\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 15\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 16\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 17\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 18\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 19\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\HR.Themes.Fischer.WPF.pdb
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Full AVL Tree Visualization 20\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Show Me 2\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.exe
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharpDemo.pdb
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Contracts.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.Controls.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\GraphSharp.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Microsoft.Contracts.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\QuickGraph.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\WPFExtensions.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.xml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\Telerik.Windows.Data.xml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csprojResolveAssemblyReference.cache
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.baml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\About.g.cs
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\App.g.cs
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_Content.g.cs
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.cache
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo_MarkupCompile.lref
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\MainWindow.baml
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.g.resources
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.Properties.Resources.resources
+G:\Show Me 2 good\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.csproj.GenerateResource.Cache
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.exe
+G:\Show Me 2 Final\Show Me 2\Full AVL Tree Visualization\GraphSharpDemo\GraphSharpDemo\obj\x86\Debug\GraphSharpDemo.pdb
